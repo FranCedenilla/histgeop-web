@@ -1,0 +1,338 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>Historia y Geopolítica Actual</title>
+    <link>https://histgeop.basal-ai.com/feed.xml</link>
+    <description>Un podcast de divulgación histórica hecho por alguien que no es historiador, pero que lleva toda su vida queriendo entender por qué el mundo es como es. Partimos de los conflictos de hoy —Irán, Gaza, Líbano, Yemen— y retrocedemos hasta sus raíces históricas, culturales y religiosas para entenderlos de verdad. No te damos opiniones políticas: te damos contexto para que formes tus propias conclusiones, viendo los hechos desde el punto de vista del pueblo que está en el centro de esos conflictos. Los personajes de la familia Mehr —ficticios pero históricamente verosímiles— son el hilo conductor de la narración, y el Asha —la responsabilidad individual ante la verdad— es el hilo de toda la temporada.
+</description>
+    <atom:link href="https://histgeop.basal-ai.com/feed.xml" rel="self"/>
+    <copyright>© 2026 Fran Cedenilla</copyright>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <image>
+      <url>https://histgeop.basal-ai.com/imagenes/T1_1x1.jpg</url>
+      <title>Historia y Geopolítica Actual</title>
+      <link>https://histgeop.basal-ai.com/feed.xml</link>
+    </image>
+    <language>es-ES</language>
+    <lastBuildDate>Sat, 20 Jun 2026 09:57:10 +0000</lastBuildDate>
+    <itunes:author>Fran Cedenilla</itunes:author>
+    <itunes:category text="History"/>
+    <itunes:image href="https://histgeop.basal-ai.com/imagenes/T1_1x1.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Fran Cedenilla</itunes:name>
+      <itunes:email>flopezced@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Entender el mundo hoy encontrando los puntos que nos traen hasta nuestros días</itunes:subtitle>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>Ep. 1. ¿Por qué Irán no es un país árabe? — Atar Mehr, guardián del fuego</title>
+      <link>https://histgeop.basal-ai.com/episodios/ep01</link>
+      <description>¿Por qué Irán y los países árabes tienen identidades tan distintas, aunque compartan religión?
+
+Este episodio retrocede hasta el Imperio Aqueménida (~550 a.C.) para entender cómo la
+civilización persa construyó su identidad mucho antes de que existiera el islam, y por qué
+esa identidad —forjada en la lengua, la cultura y una concepción propia de la verdad—
+sigue siendo el motor invisible detrás de la política exterior iraní de hoy.
+
+Seguimos a Atar Mehr, sacerdote-pastor nómada que guarda el fuego sagrado antes del amanecer,
+en las estepas iraníes de hace tres mil años. Su figura encarna la tensión entre la conciencia
+individual y la pertenencia al grupo: el Asha, el hilo conductor de toda la temporada.
+
+Descubrirás:
+· Por qué el farsi y el árabe son tan distintos como el castellano y el chino
+· Cómo Ciro el Grande construyó el primer gran imperio de la tolerancia
+· Qué es el Asha y por qué sigue vivo en la conciencia iraní
+· Por qué Occidente no entiende a Irán y cómo la historia lo explica
+
+Duración: 25 min. Diseñado para personas con curiosidad pero sin conocimiento previo.
+Sin condescendencia. Sin sesgo eurocéntrico. Con rigor. Adaptado para mentes neurodivergentes.
+&lt;br/&gt;&lt;br/&gt;&lt;strong&gt;Fuentes y bibliografía:&lt;/strong&gt;&lt;br/&gt;• Briant, Pierre — Cyrus the Great (2002), Harvard University Press&lt;br/&gt;• Dandamaev, M.A. — A Political History of the Achaemenid Empire (1989), Brill&lt;br/&gt;• Frye, Richard N. — The Heritage of Persia (1963), Weidenfeld &amp; Nicolson&lt;br/&gt;• Olmstead, A.T. — History of the Persian Empire (1948), University of Chicago Press&lt;br/&gt;&lt;br/&gt;&lt;em&gt;Los personajes de la familia Mehr son ficticios pero históricamente verosímiles. Son el hilo conductor de la narración, no una reconstrucción académica. Atar Mehr representa a los miles de sacerdotes-pastores zoroástricos que mantuvieron viva una tradición antes de que existiera siquiera la palabra «Persia».&lt;/em&gt;</description>
+      <guid isPermaLink="false">https://histgeop.basal-ai.com/episodios/ep01</guid>
+      <enclosure url="https://histgeop.basal-ai.com/audio/ep01.mp3" length="49882856" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:author>Fran Cedenilla</itunes:author>
+      <itunes:image href="https://histgeop.basal-ai.com/imagenes/ep01.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>¿Por qué Irán y los países árabes tienen identidades tan distintas, aunque compartan religión?
+
+Este episodio retrocede hasta el Imperio Aqueménida (~550 a.C.) para entender cómo la
+civilización persa construyó su identidad mucho antes de que existiera el islam, y por qué
+esa identidad —forjada en la lengua, la cultura y una concepción propia de la verdad—
+sigue siendo el motor invisible detrás de la política exterior iraní de hoy.
+
+Seguimos a Atar Mehr, sacerdote-pastor nómada que guarda el fuego sagrado antes del amanecer,
+en las estepas iraníes de hace tres mil años. Su figura encarna la tensión entre la conciencia
+individual y la pertenencia al grupo: el Asha, el hilo conductor de toda la temporada.
+
+Descubrirás:
+· Por qué el farsi y el árabe son tan distintos como el castellano y el chino
+· Cómo Ciro el Grande construyó el primer gran imperio de la tolerancia
+· Qué es el Asha y por qué sigue vivo en la conciencia iraní
+· Por qué Occidente no entiende a Irán y cómo la historia lo explica
+
+Duración: 25 min. Diseñado para personas con curiosidad pero sin conocimiento previo.
+Sin condescendencia. Sin sesgo eurocéntrico. Con rigor. Adaptado para mentes neurodivergentes.
+</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>1</itunes:episode>
+    </item>
+    <item>
+      <title>Zoroastrismo: la fe que dio forma al mundo</title>
+      <link>https://histgeop.basal-ai.com/episodios/ep02</link>
+      <description>Hay un lugar en la meseta iraní, a unos cuarenta kilómetros al norte de Yazd, donde el fuego lleva ardiendo más de mil quinientos años.
+
+La pregunta de hoy es esta: ¿Puede una religión nacida en las estepas iraníes hace tres mil años estar en la raíz de buena parte de lo que el mundo occidental llama sus valores fundamentales?
+
+Pensemos en lo que eso significa en el contexto del siglo décimo u undécimo antes de Cristo, que es probablemente cuando vivió Zaratustra.
+
+La primera es Humata. Que significa: buenos pensamientos. La batalla empieza en la mente. La virtud es, antes que ninguna otra cosa, una disciplina interior. No puedes actuar bien de forma consistente si tus pensamientos son caóticos, resentidos, o dominados por el miedo o la codicia. El trabajo interior no es opcional: es el fundamento.
+
+Vamos ahora a la idea que puede ser la más importante de todas las que el zoroastrismo aportó al pensamiento humano, y que la mayoría de la gente en Occidente no sabe que viene de Persia.
+</description>
+      <guid isPermaLink="false">https://histgeop.basal-ai.com/episodios/ep02</guid>
+      <enclosure url="https://histgeop.basal-ai.com/audio/ep02.mp3" length="54216756" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:author>Fran Cedenilla</itunes:author>
+      <itunes:image href="https://histgeop.basal-ai.com/imagenes/ep02.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Hay un lugar en la meseta iraní, a unos cuarenta kilómetros al norte de Yazd, donde el fuego lleva ardiendo más de mil quinientos años.
+
+La pregunta de hoy es esta: ¿Puede una religión nacida en las estepas iraníes hace tres mil años estar en la raíz de buena parte de lo que el mundo occidental llama sus valores fundamentales?
+
+Pensemos en lo que eso significa en el contexto del siglo décimo u undécimo antes de Cristo, que es probablemente cuando vivió Zaratustra.
+
+La primera es Humata. Que significa: buenos pensamientos. La batalla empieza en la mente. La virtud es, antes que ninguna otra cosa, una disciplina interior. No puedes actuar bien de forma consistente si tus pensamientos son caóticos, resentidos, o dominados por el miedo o la codicia. El trabajo interior no es opcional: es el fundamento.
+
+Vamos ahora a la idea que puede ser la más importante de todas las que el zoroastrismo aportó al pensamiento humano, y que la mayoría de la gente en Occidente no sabe que viene de Persia.
+</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>2</itunes:episode>
+    </item>
+    <item>
+      <title>Alejandro Magno y el choque de civilizaciones</title>
+      <link>https://histgeop.basal-ai.com/episodios/ep03</link>
+      <description>En el año trescientos treinta antes de Cristo, una ciudad ardió.
+
+La pregunta de hoy es esta: ¿Qué hace un pueblo cuando el que llega a conquistarlo dice que viene a liberarlo?
+
+Antes de hablar de Alejandro, tenemos que hablar de lo que pasó antes. Porque para entender por qué el incendio de Persépolis fue posible, y por qué fue aceptado como justicia en el mundo griego, hay que entender qué pasó entre Persia y Grecia en los cincuenta años previos.
+
+Alejandro cruzó el Helesponto en el año trescientos treinta y cuatro antes de Cristo con unos cuarenta mil soldados. Derrotó al ejército persa en Issos, en el año trescientos treinta y tres, y en Gaugamela, en el trescientos treinta y uno, donde se enfrentó directamente a Darío III, el último Gran Rey aqueménida.
+
+El incendio de Persépolis ocurrió en el año trescientos treinta, poco después de la toma de la ciudad.
+</description>
+      <guid isPermaLink="false">https://histgeop.basal-ai.com/episodios/ep03</guid>
+      <enclosure url="https://histgeop.basal-ai.com/audio/ep03.mp3" length="40249682" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:author>Fran Cedenilla</itunes:author>
+      <itunes:image href="https://histgeop.basal-ai.com/imagenes/ep03.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>En el año trescientos treinta antes de Cristo, una ciudad ardió.
+
+La pregunta de hoy es esta: ¿Qué hace un pueblo cuando el que llega a conquistarlo dice que viene a liberarlo?
+
+Antes de hablar de Alejandro, tenemos que hablar de lo que pasó antes. Porque para entender por qué el incendio de Persépolis fue posible, y por qué fue aceptado como justicia en el mundo griego, hay que entender qué pasó entre Persia y Grecia en los cincuenta años previos.
+
+Alejandro cruzó el Helesponto en el año trescientos treinta y cuatro antes de Cristo con unos cuarenta mil soldados. Derrotó al ejército persa en Issos, en el año trescientos treinta y tres, y en Gaugamela, en el trescientos treinta y uno, donde se enfrentó directamente a Darío III, el último Gran Rey aqueménida.
+
+El incendio de Persépolis ocurrió en el año trescientos treinta, poco después de la toma de la ciudad.
+</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>3</itunes:episode>
+    </item>
+    <item>
+      <title>Los Sasánidas: el último gran imperio persa pre-islámico</title>
+      <link>https://histgeop.basal-ai.com/episodios/ep04</link>
+      <description>En el año quinientos veintinueve de nuestra era, el emperador romano de oriente Justiniano tomó una decisión que cambiaría el mapa del conocimiento humano.
+
+La pregunta de hoy: ¿Qué pasa cuando un Imperio tiene más de cuatrocientos años y produce ciencia, derecho y pluralismo antes de que el mundo occidental haya inventado siquiera la categoría?
+
+En el año doscientos veinticuatro de nuestra era, un noble persa llamado Ardashir I derrotó al último rey parto y proclamó la fundación de la dinastía Sasánida.
+
+En el siglo tres, el rey Shapur I, el que capturó al emperador Valeriano, fundó y expandió una institución que merece que nos detengamos en ella más de lo habitual.
+
+Hay un concepto que el historiador Richard Payne acuñó para describir la política religiosa y social del Imperio Sasánida. Lo llamó Estado de Mezcla. Es una de las ideas más relevantes para entender por qué el Imperio Sasánida fue lo que fue.
+</description>
+      <guid isPermaLink="false">https://histgeop.basal-ai.com/episodios/ep04</guid>
+      <enclosure url="https://histgeop.basal-ai.com/audio/ep04.mp3" length="36049636" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:author>Fran Cedenilla</itunes:author>
+      <itunes:image href="https://histgeop.basal-ai.com/imagenes/ep04.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>En el año quinientos veintinueve de nuestra era, el emperador romano de oriente Justiniano tomó una decisión que cambiaría el mapa del conocimiento humano.
+
+La pregunta de hoy: ¿Qué pasa cuando un Imperio tiene más de cuatrocientos años y produce ciencia, derecho y pluralismo antes de que el mundo occidental haya inventado siquiera la categoría?
+
+En el año doscientos veinticuatro de nuestra era, un noble persa llamado Ardashir I derrotó al último rey parto y proclamó la fundación de la dinastía Sasánida.
+
+En el siglo tres, el rey Shapur I, el que capturó al emperador Valeriano, fundó y expandió una institución que merece que nos detengamos en ella más de lo habitual.
+
+Hay un concepto que el historiador Richard Payne acuñó para describir la política religiosa y social del Imperio Sasánida. Lo llamó Estado de Mezcla. Es una de las ideas más relevantes para entender por qué el Imperio Sasánida fue lo que fue.
+</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>4</itunes:episode>
+    </item>
+    <item>
+      <title>La conquista árabe y el nacimiento del islam en Persia</title>
+      <link>https://histgeop.basal-ai.com/episodios/ep05</link>
+      <description>Año seiscientos treinta y seis después de Cristo. En algún lugar de la llanura de al-Qadisiyya, al sur del actual Iraq, un hombre llamado Hormozd Mehr lleva tres días sin dormir.
+
+Para entender por qué un ejército árabe relativamente pequeño pudo derrotar al Imperio sasánida en pocos años, hay que entender el estado de ese imperio antes de que llegara el primer soldado árabe.
+
+Para comprender la conquista árabe hay que entender qué era el islam en ese momento.
+
+La noticia de la derrota en al-Qadisiyya llegó a Ctesifonte, la capital imperial, antes de que llegaran los refugiados. Y entonces empezó la huida.
+
+Hormozd Mehr sobrevivió a al-Qadisiyya. No por heroísmo, sino porque cuando empezó la derrota tuvo la sensatez de tirarse al suelo entre los muertos y esperar a que la oscuridad cubriera la llanura.
+</description>
+      <guid isPermaLink="false">https://histgeop.basal-ai.com/episodios/ep05</guid>
+      <enclosure url="https://histgeop.basal-ai.com/audio/ep05.mp3" length="38148233" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:author>Fran Cedenilla</itunes:author>
+      <itunes:image href="https://histgeop.basal-ai.com/imagenes/ep05.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Año seiscientos treinta y seis después de Cristo. En algún lugar de la llanura de al-Qadisiyya, al sur del actual Iraq, un hombre llamado Hormozd Mehr lleva tres días sin dormir.
+
+Para entender por qué un ejército árabe relativamente pequeño pudo derrotar al Imperio sasánida en pocos años, hay que entender el estado de ese imperio antes de que llegara el primer soldado árabe.
+
+Para comprender la conquista árabe hay que entender qué era el islam en ese momento.
+
+La noticia de la derrota en al-Qadisiyya llegó a Ctesifonte, la capital imperial, antes de que llegaran los refugiados. Y entonces empezó la huida.
+
+Hormozd Mehr sobrevivió a al-Qadisiyya. No por heroísmo, sino porque cuando empezó la derrota tuvo la sensatez de tirarse al suelo entre los muertos y esperar a que la oscuridad cubriera la llanura.
+</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>5</itunes:episode>
+    </item>
+    <item>
+      <title>El cisma. ¿Por qué Irán se hizo chiíta? La Dinastía Safávida</title>
+      <link>https://histgeop.basal-ai.com/episodios/ep06</link>
+      <description>Isfahan, año mil quinientos dos. El bazar todavía huele a lo mismo que siempre: cuero curtido, especias del este, lana húmeda, brasas de carbón. Los mercaderes abrieron sus tenderetes antes del amanecer como llevan haciendo toda su vida, y las voces de los pregoneros rebotan entre los arcos de ladrillo como si el mundo fuera el mismo que ayer.
+
+El profeta Mahoma murió el ocho de junio del año seiscientos treinta y dos. Murió sin dejar instrucciones escritas y definitivas sobre quién debía gobernar la comunidad islámica, la umma, después de él. O al menos eso es lo que sostiene una parte de sus seguidores. La otra parte sostiene que sí las dejó. Y que esas instrucciones fueron ignoradas.
+
+La hermana de Husayn se llamaba Zainab bint Alí. Era una mujer de unos cincuenta años. Había visto morir a su hermano y a casi todos los hombres de su familia. Llegó a Damasco encadenada, como prisionera, a la corte del hombre que había ordenado todo aquello.
+
+Durante los ocho siglos siguientes a Karbala, el chiismo fue la fe de una minoría perseguida dentro del mundo islámico. Los doce imames que los chiítas duodecimanos reconocen como autoridades legítimas fueron, sin excepción, asesinados o murieron bajo arresto. El duodécimo imán, Muhammad al-Mahdi, desapareció cuando era niño, en el año ochocientos setenta y cuatro. Los chiítas creen que no murió, sino que entró en un estado de ocultación, que está presente pero invisible, y que reaparecerá al final de los tiempos para restaurar la justicia en el mundo.
+
+El joven que entró en Tabriz en mil quinientos uno y se coronó Shah tenía catorce años. Se llamaba Ismail I y pertenecía a la orden sufí Safawiyya, que con el tiempo había adoptado una orientación chií. Lo que Ismail I hizo al llegar al poder no tiene precedente en la historia del islam. Declaró el chiismo duodecimano religión oficial del Estado y lo impuso sobre toda la población del territorio que controlaba. No como invitación. Como ley.
+</description>
+      <guid isPermaLink="false">https://histgeop.basal-ai.com/episodios/ep06</guid>
+      <enclosure url="https://histgeop.basal-ai.com/audio/ep06.mp3" length="57253671" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:author>Fran Cedenilla</itunes:author>
+      <itunes:image href="https://histgeop.basal-ai.com/imagenes/ep06.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Isfahan, año mil quinientos dos. El bazar todavía huele a lo mismo que siempre: cuero curtido, especias del este, lana húmeda, brasas de carbón. Los mercaderes abrieron sus tenderetes antes del amanecer como llevan haciendo toda su vida, y las voces de los pregoneros rebotan entre los arcos de ladrillo como si el mundo fuera el mismo que ayer.
+
+El profeta Mahoma murió el ocho de junio del año seiscientos treinta y dos. Murió sin dejar instrucciones escritas y definitivas sobre quién debía gobernar la comunidad islámica, la umma, después de él. O al menos eso es lo que sostiene una parte de sus seguidores. La otra parte sostiene que sí las dejó. Y que esas instrucciones fueron ignoradas.
+
+La hermana de Husayn se llamaba Zainab bint Alí. Era una mujer de unos cincuenta años. Había visto morir a su hermano y a casi todos los hombres de su familia. Llegó a Damasco encadenada, como prisionera, a la corte del hombre que había ordenado todo aquello.
+
+Durante los ocho siglos siguientes a Karbala, el chiismo fue la fe de una minoría perseguida dentro del mundo islámico. Los doce imames que los chiítas duodecimanos reconocen como autoridades legítimas fueron, sin excepción, asesinados o murieron bajo arresto. El duodécimo imán, Muhammad al-Mahdi, desapareció cuando era niño, en el año ochocientos setenta y cuatro. Los chiítas creen que no murió, sino que entró en un estado de ocultación, que está presente pero invisible, y que reaparecerá al final de los tiempos para restaurar la justicia en el mundo.
+
+El joven que entró en Tabriz en mil quinientos uno y se coronó Shah tenía catorce años. Se llamaba Ismail I y pertenecía a la orden sufí Safawiyya, que con el tiempo había adoptado una orientación chií. Lo que Ismail I hizo al llegar al poder no tiene precedente en la historia del islam. Declaró el chiismo duodecimano religión oficial del Estado y lo impuso sobre toda la población del territorio que controlaba. No como invitación. Como ley.
+</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>6</itunes:episode>
+    </item>
+    <item>
+      <title>El siglo del petróleo. Potencias extranjeras, el Shah y el golpe de mil novecientos cincuenta y tres</title>
+      <link>https://histgeop.basal-ai.com/episodios/ep07</link>
+      <description>Abadan, mil novecientos treinta y cinco. El turno de la mañana empieza a las seis.
+
+Para entender cómo fue posible que eso ocurriera, hay que ir atrás. Hay que ir al siglo diecinueve, cuando Persia, que todavía no se llamaba Irán oficialmente, se convirtió en el tablero de ajedrez de dos imperios que jugaban una partida gigantesca.
+
+Diez años después del boicot del tabaco, en mil novecientos uno, un empresario australiano llamado William Knox D'Arcy obtuvo del Shah Mozaffar ad-Din una concesión para explorar petróleo en el ochenta por ciento del territorio iraní. A cambio, Irán recibió veinte mil libras esterlinas, el equivalente a lo que la Anglo-Persian Oil Company ganaría en unas pocas horas una vez que la explotación estuviera en marcha, y una promesa del dieciséis por ciento de los beneficios netos. Los términos exactos de lo que se consideraba beneficio neto los calcularía la empresa. El Gobierno iraní no tendría acceso a los libros contables.
+
+En mil novecientos cuarenta y uno, durante la Segunda Guerra Mundial, los aliados anglosoviéticos invadieron Irán para asegurar la ruta de suministro hacia la Unión Soviética. El Shah Reza Pahlavi, que gobernaba desde mil novecientos veinticinco y que había mantenido cierta ambigüedad respecto a las potencias del Eje, fue forzado a abdicar. Su hijo, Mohammad Reza Shah Pahlavi, de veintiún años, lo sustituyó. Los aliados querían un Shah joven y manejable. Lo consiguieron.
+
+La respuesta de Londres no se hizo esperar.
+</description>
+      <guid isPermaLink="false">https://histgeop.basal-ai.com/episodios/ep07</guid>
+      <enclosure url="https://histgeop.basal-ai.com/audio/ep07.mp3" length="66556981" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:author>Fran Cedenilla</itunes:author>
+      <itunes:image href="https://histgeop.basal-ai.com/imagenes/ep07.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Abadan, mil novecientos treinta y cinco. El turno de la mañana empieza a las seis.
+
+Para entender cómo fue posible que eso ocurriera, hay que ir atrás. Hay que ir al siglo diecinueve, cuando Persia, que todavía no se llamaba Irán oficialmente, se convirtió en el tablero de ajedrez de dos imperios que jugaban una partida gigantesca.
+
+Diez años después del boicot del tabaco, en mil novecientos uno, un empresario australiano llamado William Knox D'Arcy obtuvo del Shah Mozaffar ad-Din una concesión para explorar petróleo en el ochenta por ciento del territorio iraní. A cambio, Irán recibió veinte mil libras esterlinas, el equivalente a lo que la Anglo-Persian Oil Company ganaría en unas pocas horas una vez que la explotación estuviera en marcha, y una promesa del dieciséis por ciento de los beneficios netos. Los términos exactos de lo que se consideraba beneficio neto los calcularía la empresa. El Gobierno iraní no tendría acceso a los libros contables.
+
+En mil novecientos cuarenta y uno, durante la Segunda Guerra Mundial, los aliados anglosoviéticos invadieron Irán para asegurar la ruta de suministro hacia la Unión Soviética. El Shah Reza Pahlavi, que gobernaba desde mil novecientos veinticinco y que había mantenido cierta ambigüedad respecto a las potencias del Eje, fue forzado a abdicar. Su hijo, Mohammad Reza Shah Pahlavi, de veintiún años, lo sustituyó. Los aliados querían un Shah joven y manejable. Lo consiguieron.
+
+La respuesta de Londres no se hizo esperar.
+</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>7</itunes:episode>
+    </item>
+    <item>
+      <title>La Revolución de mil novecientos setenta y nueve y la República Islámica</title>
+      <link>https://histgeop.basal-ai.com/episodios/ep08</link>
+      <description>Teherán, otoño de mil novecientos setenta y ocho.
+
+Para entender la revolución iraní de mil novecientos setenta y nueve hay que entender primero el Irán contra el que esa revolución se hizo. Y ese Irán es más complicado que la imagen simple de una dictadura que cae frente a una teología.
+
+Tres factores concretos convirtieron esa rabia acumulada en revolución precisamente en mil novecientos setenta y ocho.
+
+Jomeini llevaba quince años en el exilio cuando en mil novecientos setenta y ocho su voz empezó a circular en cassettes de audio que de mano en mano recorrían todo el país. No era el clérigo de mayor rango en el chiismo iraní. El gran ayatolá Shariatmadari tenía más autoridad formal. Pero Jomeini tenía algo que Shariatmadari no tenía: una doctrina política que llenaba el vacío que la oposición no había conseguido llenar.
+
+El año mil novecientos setenta y ocho es una de las movilizaciones populares más extraordinarias del siglo veinte. Comenzó en enero con manifestaciones en la ciudad santa de Qom tras un artículo oficial que atacaba a Jomeini. Las protestas acabaron en enfrentamientos y muertos. A los cuarenta días, según el ciclo del duelo chií, el arbaeen, nuevas protestas en Tabriz. Más muertos. Cuarenta días después, más ciudades. El calendario religioso chií se convirtió en la estructura de la revolución.
+</description>
+      <guid isPermaLink="false">https://histgeop.basal-ai.com/episodios/ep08</guid>
+      <enclosure url="https://histgeop.basal-ai.com/audio/ep08.mp3" length="51435850" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:author>Fran Cedenilla</itunes:author>
+      <itunes:image href="https://histgeop.basal-ai.com/imagenes/ep08.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Teherán, otoño de mil novecientos setenta y ocho.
+
+Para entender la revolución iraní de mil novecientos setenta y nueve hay que entender primero el Irán contra el que esa revolución se hizo. Y ese Irán es más complicado que la imagen simple de una dictadura que cae frente a una teología.
+
+Tres factores concretos convirtieron esa rabia acumulada en revolución precisamente en mil novecientos setenta y ocho.
+
+Jomeini llevaba quince años en el exilio cuando en mil novecientos setenta y ocho su voz empezó a circular en cassettes de audio que de mano en mano recorrían todo el país. No era el clérigo de mayor rango en el chiismo iraní. El gran ayatolá Shariatmadari tenía más autoridad formal. Pero Jomeini tenía algo que Shariatmadari no tenía: una doctrina política que llenaba el vacío que la oposición no había conseguido llenar.
+
+El año mil novecientos setenta y ocho es una de las movilizaciones populares más extraordinarias del siglo veinte. Comenzó en enero con manifestaciones en la ciudad santa de Qom tras un artículo oficial que atacaba a Jomeini. Las protestas acabaron en enfrentamientos y muertos. A los cuarenta días, según el ciclo del duelo chií, el arbaeen, nuevas protestas en Tabriz. Más muertos. Cuarenta días después, más ciudades. El calendario religioso chií se convirtió en la estructura de la revolución.
+</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>8</itunes:episode>
+    </item>
+    <item>
+      <title>Irán hoy — el eje de resistencia y Zan Zendegi Azadi</title>
+      <link>https://histgeop.basal-ai.com/episodios/ep09</link>
+      <description>Teherán, septiembre de dos mil veintidós.
+
+Para entender el Irán de Arash hay que entender lo que cuatro décadas de República Islámica han construido, y lo que no han podido destruir.
+
+Irán es un país con el décimo ejército más grande del mundo en términos de efectivos, pero con un presupuesto de defensa que es una fracción del de Israel o Arabia Saudí, y que no puede competir en términos de tecnología militar convencional con los ejércitos americanos o israelíes. ¿Cómo proyecta poder entonces un país con esas limitaciones? La respuesta que el régimen iraní construyó durante cuatro décadas es lo que llama el eje de resistencia, en persa mehvar-e moqavemat.
+
+En septiembre de dos mil veinticuatro, Israel asesinó a Hassan Nasrallah, el líder histórico de Hezbolá, en un ataque aéreo en el sur de Beirut. Nasrallah había liderado la organización durante treinta y dos años. Su muerte fue seguida por una campaña israelí de una intensidad sin precedentes que diezmó la estructura de mando de Hezbolá, destruyó gran parte de su arsenal y obligó a la organización a aceptar un alto el fuego con condiciones que un año antes habrían parecido impensables para alguien de la posición de Hezbolá.
+
+El programa nuclear iraní es el elemento de negociación más poderoso y más peligroso de la aritmética geopolítica del régimen.
+</description>
+      <guid isPermaLink="false">https://histgeop.basal-ai.com/episodios/ep09</guid>
+      <enclosure url="https://histgeop.basal-ai.com/audio/ep09.mp3" length="53280815" type="audio/mpeg"/>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
+      <itunes:author>Fran Cedenilla</itunes:author>
+      <itunes:image href="https://histgeop.basal-ai.com/imagenes/ep09.jpg"/>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Teherán, septiembre de dos mil veintidós.
+
+Para entender el Irán de Arash hay que entender lo que cuatro décadas de República Islámica han construido, y lo que no han podido destruir.
+
+Irán es un país con el décimo ejército más grande del mundo en términos de efectivos, pero con un presupuesto de defensa que es una fracción del de Israel o Arabia Saudí, y que no puede competir en términos de tecnología militar convencional con los ejércitos americanos o israelíes. ¿Cómo proyecta poder entonces un país con esas limitaciones? La respuesta que el régimen iraní construyó durante cuatro décadas es lo que llama el eje de resistencia, en persa mehvar-e moqavemat.
+
+En septiembre de dos mil veinticuatro, Israel asesinó a Hassan Nasrallah, el líder histórico de Hezbolá, en un ataque aéreo en el sur de Beirut. Nasrallah había liderado la organización durante treinta y dos años. Su muerte fue seguida por una campaña israelí de una intensidad sin precedentes que diezmó la estructura de mando de Hezbolá, destruyó gran parte de su arsenal y obligó a la organización a aceptar un alto el fuego con condiciones que un año antes habrían parecido impensables para alguien de la posición de Hezbolá.
+
+El programa nuclear iraní es el elemento de negociación más poderoso y más peligroso de la aritmética geopolítica del régimen.
+</itunes:summary>
+      <itunes:season>1</itunes:season>
+      <itunes:episode>9</itunes:episode>
+    </item>
+  </channel>
+</rss>
