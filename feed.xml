@@ -27,6 +27,32 @@
     <itunes:subtitle>Entender el mundo hoy encontrando los puntos que nos traen hasta nuestros días</itunes:subtitle>
     <itunes:type>episodic</itunes:type>
     <item>
+    <title>Ep. 10. Cómo se fabrica un enemigo — Cierre de temporada</title>
+    <link>https://histgeop.basal-ai.com/episodios/ep10.html</link>
+    <description>Fran Cedenilla cierra su primera temporada con un giro inesperado: tras tres mil años de historia persa, el último episodio apunta directamente al oyente.</description>
+    <guid isPermaLink="false">https://histgeop.basal-ai.com/episodios/ep10</guid>
+    <enclosure url="https://github.com/FranCedenilla/histgeop-web/releases/download/T1-audio/ep10.mp3" length="40657917" type="audio/mpeg"/>
+    <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    <itunes:author>Fran Cedenilla</itunes:author>
+    <itunes:image href="https://histgeop.basal-ai.com/imagenes/ep10.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episode>10</itunes:episode>
+    <itunes:season>1</itunes:season>
+  </item>
+  <item>
+    <title>Anexo. Detrás del podcast — Créditos de la Temporada 1</title>
+    <link>https://histgeop.basal-ai.com/episodios/anexo.html</link>
+    <description>Un episodio extra en el que el autor sale de detrás del micrófono: quién es, por qué hizo este podcast y cómo lo hizo, sin esconder el método.</description>
+    <guid isPermaLink="false">https://histgeop.basal-ai.com/episodios/anexo</guid>
+    <enclosure url="https://github.com/FranCedenilla/histgeop-web/releases/download/T1-audio/anexo.mp3" length="18197805" type="audio/mpeg"/>
+    <pubDate>Thu, 25 Jun 2026 01:00:00 +0000</pubDate>
+    <itunes:author>Fran Cedenilla</itunes:author>
+    <itunes:image href="https://histgeop.basal-ai.com/imagenes/anexo.jpg"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:episodeType>bonus</itunes:episodeType>
+    <itunes:season>1</itunes:season>
+  </item>
+  <item>
       <title>Ep. 1. ¿Por qué Irán no es un país árabe? — Atar Mehr, guardián del fuego</title>
       <link>https://histgeop.basal-ai.com/episodios/ep01</link>
       <description>¿Por qué Irán y los países árabes tienen identidades tan distintas, aunque compartan religión?
